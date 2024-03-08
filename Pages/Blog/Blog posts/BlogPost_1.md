@@ -28,3 +28,9 @@ int main() {
 | ------ | ------ | ------ |
 |      |      |      |
 |      |      |      |
+
+
+$$
+\int_{b}^{a} (dx^n+7)dx = \left[\frac{d}{n+1}x^{n+1}+7x\right]_{b}^{a}\newline\space\newline
+		= \left(\frac{d}{n+1}(a)^{n+1}+7(a)\right)- \left(\frac{d}{n+1}(b)^{n+1}+7(b)\right)
+$$

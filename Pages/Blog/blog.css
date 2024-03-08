@@ -3,6 +3,14 @@
     position: sticky;
 }
 
+.SideLinks {
+    background-color: #176f03c3;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 .DateBlog {
     font-size:x-small;
     text-align: right;
@@ -39,7 +47,7 @@
     top: 50%;
     transform: translateY(7%);
     width: 80vw;
-    max-width: 800px;
+    max-width: 850px;
     text-align: center;
     outline-width: 3pt;
     outline-color: rgb(115, 255, 1);
@@ -57,6 +65,14 @@
     outline-width: 3pt;
     outline-color: rgb(115, 255, 1);
     outline-style:solid;
+}
+
+.Sidebar a {
+    font-size: small;
+}
+
+.Sidebar a:hover {
+    font-size:medium;
 }
 
 .Sidebar canvas {
@@ -139,4 +155,22 @@
     border-style: solid;
     border-width: 2px;
     color: hsla(162, 100%, 50%, 0.895);
+}
+
+.BlogDivCS a {
+    text-decoration: none;
+    color: hsl(101, 100%, 60%);
+}
+
+.BlogDivCS a:hover {
+    padding: 2%;
+    color: #0a201293;
+    background-color: hsl(101, 100%, 60%);
+    font-size:x-large; /* Using vw for font-size */
+    text-decoration: underline;
+    transition: 0.2s ease-in;
+}
+
+.BlogDivCS a:not(:hover) {
+    transition: 0.2s ease-out;
 }

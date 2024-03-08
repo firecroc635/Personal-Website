@@ -20,7 +20,7 @@ function handleLinkClick(event) {
     setTimeout(() => {
         // Navigate to the link after a delay
         window.location.href = event.target.href;
-    }, 700); // 1000 milliseconds = 1 second, adjust as needed
+    }, 500); // 1000 milliseconds = 1 second, adjust as needed
 }
 
 

@@ -17,7 +17,7 @@ function BlockySphere() {
     camera.position.z = 5;
 
     // Create a cube and add it to the scene
-    var geometry = new THREE.IcosahedronGeometry(3,1);
+    var geometry = new THREE.IcosahedronGeometry(3,0);
 
     // Create edges geometry
     var edges = new THREE.EdgesGeometry(geometry);
