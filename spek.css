@@ -1,0 +1,9 @@
+body {
+    font-size: larger;
+    font-family: VT323;
+    /*background-color: #001d11;*/
+    background: linear-gradient(to bottom, #000100 50%, rgb(26, 37, 1) 50%);
+    background-size: 100% 20px;
+    color: hsl(101, 100%, 60%);
+    animation: moveDown 2s linear infinite; /* Adjust timing as needed */
+}

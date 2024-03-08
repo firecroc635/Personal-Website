@@ -1,0 +1,90 @@
+@font-face {
+    font-family: VT323;
+    src: url("Fonts/oldschool_pc_font_pack_v2.2_FULL/ttf - Px (pixel outline)/Px437_CL_EagleIII_9x16.ttf");
+}
+
+@font-face {
+    font-family: VT324;
+    src: url("Fonts/oldschool_pc_font_pack_v2.2_FULL/ttf - Px (pixel outline)/Px437_IBM_XGA-AI_12x23.ttf");
+}
+
+@keyframes moveDown {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 0 20px;
+    }
+}
+
+body {
+    font-size: larger;
+    font-family: VT323;
+    /*background-color: #001d11;*/
+    background: linear-gradient(to bottom, #000100 50%, rgb(26, 37, 1) 50%);
+    background-size: 100% 20px;
+    color: hsl(101, 100%, 60%);
+    animation: moveDown 2s linear infinite; /* Adjust timing as needed */
+}
+
+h1 {
+    font-family: VT324;
+    font-size: 50pt;
+}
+
+.MainBodyDiv {
+    margin: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(7%);
+
+    width: 80vw;
+
+    max-width: 600px;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 2vw;
+
+    outline-width: 3pt;
+    outline-color: rgb(115, 255, 1);
+    outline-style:solid;
+}
+
+.TerminalLink {
+    text-decoration: none;
+    color: hsl(101, 100%, 60%);
+}
+
+.TerminalLink:hover {
+    /*outline-width: 3pt;
+    outline-offset: 2pt;
+    outline-color: hsl(101, 100%, 60%);
+    outline-style: solid;*/
+
+    color: #000000;
+    background-color: hsl(101, 100%, 60%);
+    
+    font-size:x-large;
+    text-decoration: underline;
+    transition: 0.2s ease-in;
+}
+
+.TerminalLink:not(:hover) {
+    transition: 0.2s ease-out;
+}
+
+.terminalLinkNothing {
+    color: hsl(120, 0%, 50%);
+}
+
+.LinkTable {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding-bottom: 40px;
+}
+
+canvas {
+    display: block;
+    
+}

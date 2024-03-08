@@ -1,0 +1,142 @@
+.FunkyTown {
+    top:0%;
+    position: sticky;
+}
+
+.DateBlog {
+    font-size:x-small;
+    text-align: right;
+}
+
+.markdownFilesContainer {
+    text-align: left;
+    border: rgb(115, 255, 1) 3px solid;
+    width: 95%;
+    padding: 2%;
+}
+
+.markdownFilesContainer a {
+    text-decoration: none;
+    color: hsl(101, 100%, 60%);
+}
+
+.markdownFilesContainer a:hover {
+    padding: 2%;
+    color: #0a201293;
+    background-color: hsl(101, 100%, 60%);
+    font-size:x-large; /* Using vw for font-size */
+    text-decoration: underline;
+    transition: 0.2s ease-in;
+}
+
+.markdownFilesContainer a:not(:hover) {
+    transition: 0.2s ease-out;
+}
+
+.BlogSCDiv {
+    margin: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(7%);
+    width: 80vw;
+    max-width: 800px;
+    text-align: center;
+    outline-width: 3pt;
+    outline-color: rgb(115, 255, 1);
+    outline-style:solid;
+}
+
+.Sidebar {
+    background-color: #79ffc388;
+    height: 100%;
+    width: 20%; /* Adjusted to 20% of the viewport width */
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    outline-width: 3pt;
+    outline-color: rgb(115, 255, 1);
+    outline-style:solid;
+}
+
+.Sidebar canvas {
+    padding-top: 5px;
+    padding-left: 5px;
+    display: flex;
+}
+
+.Bodey {
+    background-color: #40cf7293;
+    margin-left: 20%; /* Matching the Sidebar width */
+    padding-left: 0px;
+}
+
+.Header {
+    background-blend-mode: darken;
+    background-color: #005d14c3;
+    transform: translateX(25%); /* Matching the Sidebar width */
+    width: 76%; /* Adjusted to 60% of the viewport width */
+    padding-top: 2px;
+    padding: 2%;
+    text-align: center; /* Center align the content */
+}
+
+.BlogPosts {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.BlogDivCS {
+    margin: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(7%);
+    background-color: rgba(98, 210, 171, 0.485);
+    color: rgb(207, 247, 231);
+
+    width: 80vw;
+
+    max-width: 800px;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 2vw;
+
+    outline-width: 3pt;
+    outline-color: rgb(115, 255, 1);
+    outline-style:solid;
+}
+
+.BlogDivCS img {
+    filter: grayscale(80%);
+    mix-blend-mode:color-dodge;
+    width:100%;
+    max-width:600px;
+}
+
+.BlogDivCS pre {
+    padding: 10px;
+    background-color: #70ffc6cb;
+    width: 50%;
+    color: rgb(5, 79, 33);
+}
+
+.BlogDivCS blockquote  {
+    border-left: 10px hsla(162, 100%, 50%, 0.755) solid;
+    padding-left: 10px;
+    background-color: #70ffc64a;
+}
+
+.BlogDivCS  table, td, th {
+    border: 1px solid;
+    padding: 11px;
+}
+  
+.BlogDivCS table {
+    border-collapse: collapse;
+}
+
+.BlogDivCS hr {
+    border-style: solid;
+    border-width: 2px;
+    color: hsla(162, 100%, 50%, 0.895);
+}
