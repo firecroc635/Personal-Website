@@ -62,7 +62,8 @@ fs.readdir(postsDir, (err, files) => {
     <title>${htmlFileName1}</title>
 </head>
 <body>
-    <script src="PlaySound.js"></script>
+    <audio src="../../../../Sounds/Downloaded/682638__jamgrif__computerhum.wav" autoplay loop id="Ambient-Andy"></audio>
+    <script src="../../../../PlaySound.js"></script>
     <span><a href="../../blog.html" class="TerminalLink FunkyTown" id="Wow">◄[Back]►</a></span>
     <div class="BlogDivCS">
         <div class="BlogPosts">${htmlContent}</div>

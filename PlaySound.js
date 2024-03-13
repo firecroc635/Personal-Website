@@ -4,6 +4,8 @@ const audio = new Audio('/Sounds/WebsiteStart.mp3');
 const audio2 = new Audio('/Sounds/click.mp3');
 audio2.volume = 0.2;
 
+
+
 // Function to handle link click event
 function handleLinkClick(event) {
     console.log("Link clicked:", event.target.href);
@@ -46,3 +48,6 @@ document.body.addEventListener('click', function(event) {
 
 // Add click event listener to document body to handle non-link click
 document.body.addEventListener('click', handleNonLinkClick);
+
+var audiomanic = document.getElementById("Ambient-Andy");
+audiomanic.volume = 0.5;
