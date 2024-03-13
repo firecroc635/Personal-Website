@@ -74,7 +74,7 @@ I added my whole thing to github
 
 I've finished a version of the comments, where it shows comments from a textfile.
 
-![alt text](https://raw.github.com/firecroc635/Personal-Website/tree/main/Pages/Blog/Blog%20posts/Converted%20html%20file/assets/Screenshot_20240313_022911.png)
+![alt text](https://github.com/firecroc635/Personal-Website/blob/main/Pages/Blog/Blog%20posts/Converted%20html%20file/assets/Screenshot_20240313_022911.png?raw=true)
 
 Later I will add a place for one to comment
 
