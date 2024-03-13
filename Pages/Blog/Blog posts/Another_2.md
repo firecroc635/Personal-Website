@@ -12,20 +12,21 @@ Updates and stuff are written here and uh yeah,
 
   - [x] Main menu (working version)
 
-  - [ ] Blogs 
+  - [x] Blogs 
 
     - [x] Working
 
       - [x] able to view posts
+      
       - [x] posts are displayed "automatically"
 
-    - [ ] Features
+    - [x] Features
 
-      - [ ] *Comments on posts (Maybe)*
+      [*Comments on posts (Maybe)*] **Scraped**
 
-      - [ ] Blog  menu add cool zanny graphics
+      - [x] Blog  menu add cool zanny graphics
 
-        ​	so far got one spinning blocky sphere
+        ​	  so far got one spinning blocky sphere
 
       - [x] Latex support
       
@@ -56,6 +57,22 @@ Updates and stuff are written here and uh yeah,
 I added my whole thing to github
 
 [Link to the repo](https://github.com/firecroc635/Personal-Website)
+
+### 2:28AM,  13/04/2024
+
+I've finished a version of the comments, where it shows comments from a textfile.
+
+![](assets/Screenshot_20240313_022911.png)
+
+Later I will add a place for one to comment
+
+### 3:01PM,  13/04/2024
+
+I've decide to scrap this comment feature for the blogs for now, later I might add it but for now it's not gonna get used. **Note** the file is still in the directory, the created files still exist, and the lines in regards to the comments are commented so if I wanted to add comments again I could easily.
+
+### 3:31PM, 13/04/2024
+
+I've customised the scrollbar, unfortunatly this only works for webkit based browsers (I.E Chrome, Edge, Brave, so on) so it doesn't work for firefox unfortunatly.
 
 ------
 

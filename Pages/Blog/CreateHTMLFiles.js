@@ -24,7 +24,9 @@ fs.readdir(postsDir, (err, files) => {
         const markdownFilePath = path.join(postsDir, markdownFile);
         const htmlFileName = `${markdownFile.replace('.md', '')}.html`;
         const htmlFileName1 = `${markdownFile.replace('.md', '')}`;
+        const htmlFileName2 = `${markdownFile.replace('.md', '')}.txt`;
         const htmlFilePath = path.join(outputDir, htmlFileName);
+        const commentFilePath = path.join(outputDir, htmlFileName2);
 
         fs.readFile(markdownFilePath, 'utf8', (err, markdownContent) => {
             if (err) {
@@ -65,6 +67,11 @@ fs.readdir(postsDir, (err, files) => {
     <div class="BlogDivCS">
         <div class="BlogPosts">${htmlContent}</div>
     </div>
+    <!--<div id="Commen" class="CommentContainer">
+    <h1>Comments</h1>
+    </div>
+    <input type="hidden" id="filename" value="${htmlFileName2}">
+    <script src="../../CommentPrinter.js"></script>-->
     <div style="min-height:200px;"></div>
 </body>
 </html>
@@ -77,6 +84,20 @@ fs.readdir(postsDir, (err, files) => {
                 }
                 console.log(`Converted ${markdownFile} to HTML: ${htmlFilePath}`);
             });
+            /*
+            if(fs.existsSync(commentFilePath)) {
+                console.log("File exists")
+            } else {
+                fs.writeFile(commentFilePath, '', err => {
+                    if (err) {
+                        console.error(`Error writing HTML file ${htmlFilePath}:`, err);
+                        return;
+                    }
+                    console.log(`Converted ${markdownFile} to txt: ${commentFilePath}`);
+                });
+            }
+            */
+            
         });
     });
 });
