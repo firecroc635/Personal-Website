@@ -7,7 +7,8 @@ Also, you could probably get all the code from viewing page source
 # when will this be done?
 Frankely, it'll be a while. For me at least. But I think around 2 months or so.
 
-# And uh yeah, enjoy! Below this is a blog post about the updates of this website
+# And uh yeah, enjoy! 
+Below this is a blog post about the updates of this website
 
 # Updates for this Website
 
