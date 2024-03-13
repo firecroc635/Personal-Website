@@ -74,6 +74,10 @@ I've decide to scrap this comment feature for the blogs for now, later I might a
 
 I've customised the scrollbar, unfortunatly this only works for webkit based browsers (I.E Chrome, Edge, Brave, so on) so it doesn't work for firefox unfortunatly.
 
+### 10:24PM, 13/04/2024
+
+Added ambient sound, I put a CRT in back constantly calculating 1/0 to create the sound.
+
 ------
 
 ## some other stuff
