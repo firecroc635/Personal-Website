@@ -14,7 +14,7 @@ Below this is a blog post about the updates of this website
 
 Updates and stuff are written here and uh yeah,
 
-![](Pages/Blog/Blog posts/Converted html file/assets/Tom_Lea_-_2000_Yard_Stare-1701822450.jpg)
+![](https://github.com/firecroc635/Personal-Website/tree/main/Pages/Blog/Blog posts/Converted html file/assets/Tom_Lea_-_2000_Yard_Stare-1701822450.jpg?raw=true)
 
 ------
 
