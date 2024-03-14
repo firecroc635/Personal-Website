@@ -4,21 +4,26 @@ const audio2 = new Audio('/Sounds/click.mp3');
 audio2.volume = 0.2;
 
 
-// Function to handle link click event
 function handleLinkClick(event) {
-    // Play the click sound
-    audio.play();
-    event.preventDefault();
+    // Get the closest ancestor <a> element
+    const link = event.target.closest('a');
 
-    // Log a message indicating that a link was clicked
-    console.log('Link clicked:', event.target.href);
-    
-    // Add a delay before navigating to the link
-    setTimeout(() => {
-        // Navigate to the link after a delay
-        window.location.href = event.target.href;
-    }, 500); // Adjust as needed
+    if (link) {
+        // Play the click sound
+        audio.play();
+        event.preventDefault();
+
+        // Log a message indicating that a link was clicked
+        console.log('Link clicked:', link.href);
+        
+        // Add a delay before navigating to the link
+        setTimeout(() => {
+            // Navigate to the link after a delay
+            window.location.href = link.href;
+        }, 500); // Adjust as needed
+    }
 }
+
 
 // Add click event listener to each link
 document.querySelectorAll('a').forEach(link => {
