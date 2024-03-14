@@ -1,20 +1,15 @@
 const links = document.querySelectorAll('a');
-const binks = document.getElementById('Yos');
 const audio = new Audio('/Sounds/WebsiteStart.mp3');
 const audio2 = new Audio('/Sounds/click.mp3');
 audio2.volume = 0.2;
 
 
-
 // Function to handle link click event
 function handleLinkClick(event) {
-    console.log("Link clicked:", event.target.href);
-    // Prevent the default link behavior (e.g., navigating to a new page) immediately
-    event.preventDefault();
-    
     // Play the click sound
     audio.play();
-    
+    event.preventDefault();
+
     // Log a message indicating that a link was clicked
     console.log('Link clicked:', event.target.href);
     
@@ -22,15 +17,12 @@ function handleLinkClick(event) {
     setTimeout(() => {
         // Navigate to the link after a delay
         window.location.href = event.target.href;
-    }, 500); // 1000 milliseconds = 1 second, adjust as needed
+    }, 500); // Adjust as needed
 }
 
-
-
 // Add click event listener to each link
-links.forEach(link => {
-    console.log("Link:", link); // Check if this logs each link element
-   link.addEventListener('click', handleLinkClick);
+document.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', handleLinkClick);
 });
 
 // Function to handle non-link click event
