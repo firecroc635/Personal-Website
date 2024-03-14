@@ -19,6 +19,26 @@
         height: 200px;
     }
 }
+@keyframes PostBig2Small {
+    from {
+        width: 80vw;
+        max-width: 800px;
+    }
+    to {
+        max-width: 900px;
+        width: 90vw;
+    }
+}
+@keyframes PostSmall2Big {
+    to {
+        width: 80vw;
+        max-width: 800px;
+    }
+    from {
+        max-width: 900px;
+        width: 90vw;
+    }
+}
 
 
 .MainOptionContainer {
@@ -74,4 +94,95 @@
     width: 300px;
     height: 220px;
     animation: Big2small 0.2s ease-in;
+}
+
+.ImageMeger {
+    margin: auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+}
+
+.Content_blocks {
+    padding-top: 20px;
+    margin: auto;
+    margin-top: 2%;
+
+    width: 80vw;
+    max-width: 800px;
+
+
+    outline-width: 5pt;
+    outline-color: rgb(115, 255, 1);
+    outline-style:solid;
+    transition: 0.2s ease-out;
+    animation: PostBiSmall2Big 0.2 ease-out;
+}
+
+.BigBoyTitle {
+    display: flex;
+    padding-right: 20px;
+}
+
+.SmallBoyCont {
+    padding-bottom: 2px;
+    padding-inline: 12px;
+    display: grid;
+    grid-template-columns: repeat(4, 22vw);
+}
+
+.Date {
+    grid-column: 1;
+}
+.Status {
+    grid-column: 2;
+}
+.Description {
+    grid-column: 3 / 4;
+}
+
+.Content_blocks h2 {
+    margin: 6px;
+}
+
+.Content_blocks img {
+    margin-left: 20px;
+    margin-right: 70px;
+    height: 100px;
+    width: 100px;
+    filter: grayscale(80%);
+    filter: saturate(20%);
+    filter: contrast(70%);
+    mix-blend-mode:screen;
+    
+}
+
+hr {
+    border-style: solid;
+    border-width: 5px;
+    color: rgb(115, 255, 1);
+}
+
+.PostButton {
+    text-decoration: none;
+    color: hsl(101, 100%, 60%);
+}
+
+.PostButton:hover {
+    /*outline-width: 3pt;
+    outline-offset: 2pt;
+    outline-color: hsl(101, 100%, 60%);
+    outline-style: solid;*/
+
+    color: hsl(102, 100%, 61%);
+    background-color: hsl(101, 100%, 50%);
+    
+   
+    transition: 0.2s ease-in;
+}
+.Content_blocks:hover {
+    background-color: hsla(101, 100%, 50%, 0.291);
+    animation: PostBig2Small 0.2 ease-in;
+    max-width: 900px;
+    width: 90vw;
 }

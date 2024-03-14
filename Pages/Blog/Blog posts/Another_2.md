@@ -78,6 +78,19 @@ I've customised the scrollbar, unfortunatly this only works for webkit based bro
 
 Added ambient sound, I put a CRT in back constantly calculating 1/0 to create the sound.
 
+### 2:49AM, 15/04/2024
+
+Started work on the Projects page, currently below are the images on how it looks n stuff
+
+This was the layout idea
+![](../../../../../Photos/Project%20ideas.png)
+
+And the actual implementation
+![](../../../../../Photos/Screenshot%202024-03-15%20at%2002-42-58%20Coding%20Main.png)
+
+Of course this is the menu I made
+![](../../../../../Photos/Screenshot2024-03-15at02-54-03Projects.png)
+
 ------
 
 ## some other stuff
