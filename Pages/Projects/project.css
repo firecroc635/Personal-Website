@@ -139,9 +139,10 @@
 }
 .Description {
     grid-column: 3 / 4;
+    max-width: 200px;
 }
 
-.Content_blocks h2 {
+h2 {
     margin: 6px;
 }
 
@@ -150,6 +151,16 @@
     margin-right: 70px;
     height: 100px;
     width: 100px;
+    filter: grayscale(80%);
+    filter: saturate(20%);
+    filter: contrast(70%);
+    mix-blend-mode:screen;
+    
+}
+
+.Content_img {
+    margin-left: 20px;
+    margin-right: 70px;
     filter: grayscale(80%);
     filter: saturate(20%);
     filter: contrast(70%);
@@ -185,4 +196,22 @@ hr {
     animation: PostBig2Small 0.2 ease-in;
     max-width: 900px;
     width: 90vw;
+}
+
+.ProjPosts {
+    margin: auto;
+    position: relative;
+
+    width: 80vw;
+
+    max-width: 800px;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 2vw;
+
+    outline-width: 3pt;
+    outline-color: rgb(115, 255, 1);
+    outline-style:solid;
+    margin-top: 5%;
+
 }
