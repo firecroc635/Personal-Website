@@ -163,9 +163,18 @@ h2 {
     margin-right: 70px;
     filter: grayscale(80%);
     filter: saturate(20%);
-    filter: contrast(70%);
+    filter: contrast(80%);
     mix-blend-mode:screen;
     
+}
+
+.Contents {
+    background-color: rgba(255, 255, 255, 0.863);
+    padding-inline: 10px;
+    margin-inline: 20px;
+    margin-top: 20px;
+    color: rgb(32, 32, 32);
+    font-family: Fancy;
 }
 
 hr {

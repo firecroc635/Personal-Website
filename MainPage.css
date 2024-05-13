@@ -8,6 +8,11 @@
     src: url("Fonts/oldschool_pc_font_pack_v2.2_FULL/ttf - Px (pixel outline)/Px437_IBM_XGA-AI_12x23.ttf");
 }
 
+@font-face {
+    font-family: Fancy;
+    src: url("Fonts/MADEAwelierPERSONALUSE-Medium.otf");
+}
+
 @keyframes moveDown {
     from {
         background-position: 0 0;
@@ -43,6 +48,7 @@ body {
     background-size: 100% 20px;
     color: hsl(101, 100%, 60%);
     animation: moveDown 2s linear infinite; /* Adjust timing as needed */
+    padding-bottom: 100px;
 }
 
 h1 {
@@ -55,6 +61,7 @@ h1 {
     position: relative;
     top: 50%;
     transform: translateY(7%);
+    
 
     width: 80vw;
 

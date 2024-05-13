@@ -1,54 +1,54 @@
+# just as usual this won't be professional at all,
+
 # Updates for this Website
 
 Updates and stuff are written here and uh yeah,
 
-![](assets/Tom_Lea_-_2000_Yard_Stare-1701822450.jpg)
+![](https://raw.githubusercontent.com/firecroc635/Personal-Website/main/Pages/Blog/Blog%20posts/Converted%20html%20file/assets/Tom_Lea_-_2000_Yard_Stare-1701822450.jpg)
 
-------
+---
 
 ## Stuff I need to add
 
 - [ ] Website core(ish)
 
-  - [x] Main menu (working version)
+  - [X] Main menu (working version)
+  - [X] Blogs
 
-  - [x] Blogs 
+    - [X] Working
 
-    - [x] Working
-
-      - [x] able to view posts
-      
-      - [x] posts are displayed "automatically"
-
-    - [x] Features
+      - [X] able to view posts
+      - [X] posts are displayed "automatically"
+    - [X] Features
 
       [*Comments on posts (Maybe)*] **Scraped**
 
-      - [x] Blog  menu add cool zanny graphics
+      - [X] Blog  menu add cool zanny graphics
 
-        ​	  so far got one spinning blocky sphere
+        ```
+        so far got one spinning blocky sphere
+        ```
+      - [X] Latex support
+      - [X] Add a (my picks) blogs on the left
+  - [X] Proj's
 
-      - [x] Latex support
-      
-      - [x] Add a (my picks) blogs on the left
-
-  - [ ] Proj's
-
+    - [X] Basic menu layout
+    - [X] Making the project content legible
+    - [X] Fancy animations
   - [ ] Pics
-
   - [ ] Socials
-
   - [ ] Me
-
 - [ ] Features
 
-  - [x] Add sounds (cool idea suggested by a friend)
-  
-    - [ ] Add mute
-    
-    ​	I added some DOS-like sound effect
+  - [X] Add sounds (cool idea suggested by a friend)
 
-------
+    [*Add mute*] **Scraped, the sounds aren't too overwhelming**
+
+    ```
+    I added some DOS-like sound effect
+    ```
+
+---
 
 ## ***Almost Daily updates***
 
@@ -62,7 +62,7 @@ I added my whole thing to github
 
 I've finished a version of the comments, where it shows comments from a textfile.
 
-![](assets/Screenshot_20240313_022911.png)
+![alt text](https://github.com/firecroc635/Personal-Website/blob/main/Pages/Blog/Blog%20posts/Converted%20html%20file/assets/Screenshot_20240313_022911.png?raw=true)
 
 Later I will add a place for one to comment
 
@@ -83,21 +83,26 @@ Added ambient sound, I put a CRT in back constantly calculating 1/0 to create th
 Started work on the Projects page, currently below are the images on how it looks n stuff
 
 This was the layout idea
-![](../../../../../Photos/Project%20ideas.png)
+![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Project%20ideas.png?raw=true)
 
 And the actual implementation
-![](../../../../../Photos/Screenshot%202024-03-15%20at%2002-42-58%20Coding%20Main.png)
+![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-03-15%20at%2002-42-58%20Coding%20Main.png?raw=true)
 
 Of course this is the menu I made
-![](../../../../../Photos/Screenshot2024-03-15at02-54-03Projects.png)
+![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot2024-03-15at02-54-03Projects.png?raw=true)
 
-------
+### 5:59PM, 13/05/2024
+
+Updated and pretty sure I finished up the project's page
+
+
+---
 
 ## some other stuff
 
 Yeah this whole website will eventually go up on github, thought it'll be a while from now.
 
-------
+---
 
 ## As for right now
 
