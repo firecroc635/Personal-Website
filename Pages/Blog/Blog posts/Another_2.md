@@ -121,6 +121,8 @@ Also, the socials will just be a matrix of buttons.
 
 Socials done!
 
+![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-17%20042441.png?raw=true)
+
 ---
 
 ## some other stuff
