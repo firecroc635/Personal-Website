@@ -38,9 +38,9 @@ Updates and stuff are written here and uh yeah,
     - [X]  Making the project content legible
     - [X]  Fancy animations
   - [ ]  Pics
-  - [ ]  Socials
+  - [X]  Socials
 
-    - [ ]  Add icon links in a matrix
+    - [X]  Add icon links in a matrix
   - [ ]  Me
 - [ ]  Features
 
