@@ -12,37 +12,39 @@ Updates and stuff are written here and uh yeah,
 
 ## Stuff I need to add
 
-- [ ] Website core(ish)
+- [ ]  Website core(ish)
 
-  - [X] Main menu (working version)
-  - [X] Blogs
+  - [X]  Main menu (working version)
+  - [X]  Blogs
 
-    - [X] Working
+    - [X]  Working
 
-      - [X] able to view posts
-      - [X] posts are displayed "automatically"
-    - [X] Features
+      - [X]  able to view posts
+      - [X]  posts are displayed "automatically"
+    - [X]  Features
 
       [*Comments on posts (Maybe)*] **Scraped**
 
-      - [X] Blog  menu add cool zanny graphics
+      - [X]  Blog  menu add cool zanny graphics
 
         ```
         so far got one spinning blocky sphere
         ```
-      - [X] Latex support
-      - [X] Add a (my picks) blogs on the left
-  - [X] Proj's
+      - [X]  Latex support
+      - [X]  Add a (my picks) blogs on the left
+  - [X]  Proj's
 
-    - [X] Basic menu layout
-    - [X] Making the project content legible
-    - [X] Fancy animations
-  - [ ] Pics
-  - [ ] Socials
-  - [ ] Me
-- [ ] Features
+    - [X]  Basic menu layout
+    - [X]  Making the project content legible
+    - [X]  Fancy animations
+  - [ ]  Pics
+  - [ ]  Socials
 
-  - [X] Add sounds (cool idea suggested by a friend)
+    - [ ]  Add icon links in a matrix
+  - [ ]  Me
+- [ ]  Features
+
+  - [X]  Add sounds (cool idea suggested by a friend)
 
     [*Add mute*] **Scraped, the sounds aren't too overwhelming**
 
@@ -112,6 +114,12 @@ Anywho, I updated the projects to hae actual projects.
 ![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-17%20021017.png?raw=true)
 
 ![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-17%20021042.png?raw=true)
+
+Also, the socials will just be a matrix of buttons.
+
+### 4:24AM, 17/05/2024
+
+Socials done!
 
 ---
 

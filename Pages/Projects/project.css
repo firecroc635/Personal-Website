@@ -44,10 +44,12 @@
 .MainOptionContainer {
     margin: auto;
     position: relative;
+    display: block;
     top: 50%;
     transform: translateY(7%);
     text-align: center;
 }
+
 
 .opt {
     display: inline-block;

@@ -1,0 +1,84 @@
+@keyframes small2Big {
+    from {
+        width: 245px;
+        height: 175px;
+    }
+    to {
+        
+        width: 220px;
+        height: 150px;
+    }
+}
+
+@keyframes Big2small {
+    from {
+        width: 220px;
+        height: 150px;
+    }
+    to {
+        width: 245px;
+        height: 175px;
+    }
+}
+
+
+
+.MainOptionContainer {
+    margin: auto;
+    position: relative;
+    display: block;
+    padding-bottom: 40px;
+    top: 50%;
+    transform: translateY(7%);
+    text-align: center;
+}
+
+
+.opt {
+    display: inline-block;
+    cursor: pointer;
+    padding: 20px;
+    max-height: 160px;
+    
+}
+
+.opt h1 {
+    margin-top: 12%;
+}
+
+.opt img {
+    height: 60px;
+    width: 60px;
+}  
+
+.MenuButtons {
+    display:inline-block;
+    margin-inline: 1%;
+    text-decoration: none;
+    color: hsl(101, 100%, 60%);
+    outline-width: 5pt;
+    outline-color: rgb(115, 255, 1);
+    outline-style:solid;
+    width: 220px;
+    height: 150px;
+    transition: 0.2s ease-out;
+    animation: small2Big 0.2s ease-in;
+}
+
+.MenuButtons:hover {
+    /*outline-width: 3pt;
+    outline-offset: 2pt;
+    outline-color: hsl(101, 100%, 60%);
+    outline-style: solid;*/
+
+    color: hsl(102, 100%, 61%);
+    background-color: hsla(101, 100%, 60%, 0.429);
+    
+    font-size:large;
+    text-decoration: underline;
+    transition: 0.2s ease-in;
+
+    width: 245px;
+    height: 175px;
+    animation: Big2small 0.2s ease-in;
+}
