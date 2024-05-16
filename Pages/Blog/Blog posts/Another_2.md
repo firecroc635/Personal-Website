@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # WEbsite Updates
 
+=======
+>>>>>>> 2ab2111ff6a6805a187b97fa9f76411dbec2db80
 # just as usual this won't be professional at all,
 
 # Updates for this Website
@@ -39,8 +42,11 @@ Updates and stuff are written here and uh yeah,
     - [X] Fancy animations
   - [ ] Pics
   - [ ] Socials
+<<<<<<< HEAD
 
     - [ ] Find Icons
+=======
+>>>>>>> 2ab2111ff6a6805a187b97fa9f76411dbec2db80
   - [ ] Me
 - [ ] Features
 
@@ -99,6 +105,7 @@ Of course this is the menu I made
 
 Updated and pretty sure I finished up the project's page
 
+<<<<<<< HEAD
 ![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-13%20175937.png?raw=true)
 
 **Where I've been:**
@@ -109,12 +116,20 @@ Exams are happening and stuff, so I had to leave this website for a little bit. 
 
 Added some projects to the page
 
+=======
+>>>>>>> 2ab2111ff6a6805a187b97fa9f76411dbec2db80
 
 ---
 
 ## some other stuff
 
+<<<<<<< HEAD
 ~~Yeah this whole website will eventually go up on github, thought it'll be a while from now.~~---
+=======
+Yeah this whole website will eventually go up on github, thought it'll be a while from now.
+
+---
+>>>>>>> 2ab2111ff6a6805a187b97fa9f76411dbec2db80
 
 ## As for right now
 
