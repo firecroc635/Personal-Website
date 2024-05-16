@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# WEbsite Updates
+# Website updates
 
-=======
->>>>>>> 2ab2111ff6a6805a187b97fa9f76411dbec2db80
 # just as usual this won't be professional at all,
 
 # Updates for this Website
@@ -42,11 +39,6 @@ Updates and stuff are written here and uh yeah,
     - [X] Fancy animations
   - [ ] Pics
   - [ ] Socials
-<<<<<<< HEAD
-
-    - [ ] Find Icons
-=======
->>>>>>> 2ab2111ff6a6805a187b97fa9f76411dbec2db80
   - [ ] Me
 - [ ] Features
 
@@ -105,31 +97,29 @@ Of course this is the menu I made
 
 Updated and pretty sure I finished up the project's page
 
-<<<<<<< HEAD
 ![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-13%20175937.png?raw=true)
 
 **Where I've been:**
 
 Exams are happening and stuff, so I had to leave this website for a little bit. Updates will never stop tho so dw
 
-### 2:09AM, 17/05/2024
+### 5:59PM, 13/05/2024
 
-Added some projects to the page
+Wow, I just got into a mess with the commits and merges.
 
-=======
->>>>>>> 2ab2111ff6a6805a187b97fa9f76411dbec2db80
+Anywho, I updated the projects to hae actual projects.
+
+![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-17%20021017.png?raw=true)
+
+![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-17%20021042.png?raw=true)
 
 ---
 
 ## some other stuff
 
-<<<<<<< HEAD
-~~Yeah this whole website will eventually go up on github, thought it'll be a while from now.~~---
-=======
 Yeah this whole website will eventually go up on github, thought it'll be a while from now.
 
 ---
->>>>>>> 2ab2111ff6a6805a187b97fa9f76411dbec2db80
 
 ## As for right now
 
