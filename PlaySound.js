@@ -47,4 +47,4 @@ document.body.addEventListener('click', function(event) {
 document.body.addEventListener('click', handleNonLinkClick);
 
 var audiomanic = document.getElementById("Ambient-Andy");
-audiomanic.volume = 0.05;
+audiomanic.volume = 0.03;
