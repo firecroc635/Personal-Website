@@ -5,20 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="../../../MainPage.css?v=1">
     <link rel="stylesheet" type="text/css" href="../project.css?v=1">
+    <script type="importmap">
+        {
+          "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@<version>/build/three.module.js",
+            "three/addons/": "https://cdn.jsdelivr.net/npm/three@<version>/examples/jsm/"
+          }
+        }
+    </script>
     <title>Models Main</title>
 </head>
 <body>
     <a href="../project.html" class="TerminalLink FunkyTown">◄[Back]►</a>
     <img src="../../../Photos/Icons/settings.png" alt="monitor screen" class="ImageMeger">
 
+    
+
     <div class="Content_blocks">
         <a href="https://github.com/firecroc635/Pong" class="PostButton">
             <div>
-                <canvas id="canvas1" width="150" height="150"></canvas>
-                <script src="script.js" type="module"></script>
                 <div class="BigBoyTitle">
-                    
-                    <h2>BEGINNER PROJECT: Pong game</h2>
+                    <canvas id="canvas1" width="150" height="150" class="Content_img"></canvas>
+                    <script src="Models/script.js" type="module"></script>
+                    <h2 >BEGINNER PROJECT: Pong game</h2>
                 </div>
                 <hr>
                 <div class="SmallBoyCont">
@@ -30,7 +39,7 @@
                     </div>
                     <div class="Description">
                         <p><b>Description:</b> 
-                        I wanted to out do myself once more, so I decided to create a game. Now to start on my first game, I decided to make pong as a way to see how hard game creation would be.
+                        Made this for a birthday gift for a friend :)
                         </p>
                     </div>
                 </div>
@@ -40,5 +49,6 @@
     
     <audio src="../../../Sounds/Downloaded/682638__jamgrif__computerhum.wav" autoplay loop id="Ambient-Andy"></audio>
     <script src="../../../../../PlaySound.js?v=1"></script>
+    
 </body>
 </html>
