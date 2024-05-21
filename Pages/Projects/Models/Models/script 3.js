@@ -43,7 +43,7 @@ scene.add(light);
 const objLoader = new OBJLoader();
 var myObj;
 
-objLoader.load('../../../../3D/swor.obj', (root) => {
+objLoader.load('../../../../3D/Swor.obj', (root) => {
   myObj = root;
   root.scale.set(0.4,0.4,0.4)
   root.position.y = -0.4;
