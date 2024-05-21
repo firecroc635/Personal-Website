@@ -123,6 +123,16 @@ Socials done!
 
 ![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-17%20042441.png?raw=true)
 
+### 3:00AM, 21/5/2024
+
+How's it going gentlemen, today I just updated the uh blogs, I added these posts in Coding
+
+
+And these in models
+
+
+[and I livestreamed myself doing]([Making my website, while gaming (youtube.com)](https://www.youtube.com/watch?v=vs7fyGjju7E&t=15092s))
+
 ---
 
 ## some other stuff
