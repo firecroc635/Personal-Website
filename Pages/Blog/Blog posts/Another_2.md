@@ -127,11 +127,13 @@ Socials done!
 
 How's it going gentlemen, today I just updated the uh blogs, I added these posts in Coding
 
+![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-21%20205911.png?raw=true)
 
 And these in models
 
+![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-21%20205901.png?raw=true)
 
-[and I livestreamed myself doing]([Making my website, while gaming (youtube.com)](https://www.youtube.com/watch?v=vs7fyGjju7E&t=15092s))
+[and I livestreamed myself doing](https://www.youtube.com/watch?v=vs7fyGjju7E&t=15092s)
 
 ---
 
