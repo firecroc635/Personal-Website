@@ -139,6 +139,8 @@ And these in models
 
 When did it become 5!? Uh yeah so I basically just added a gallery section, and uh yeah :)
 
+![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-22%20133826.png?raw=true)
+
 ---
 
 ## some other stuff
