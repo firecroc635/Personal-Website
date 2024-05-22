@@ -37,7 +37,7 @@ Updates and stuff are written here and uh yeah,
     - [X]  Basic menu layout
     - [X]  Making the project content legible
     - [X]  Fancy animations
-  - [ ]  Pics
+  - [X]  Pics
   - [X]  Socials
 
     - [X]  Add icon links in a matrix
@@ -140,6 +140,8 @@ And these in models
 When did it become 5!? Uh yeah so I basically just added a gallery section, and uh yeah :)
 
 ![](https://github.com/firecroc635/Personal-Website/blob/main/Photos/Screenshot%202024-05-22%20133826.png?raw=true)
+
+I forgot to check it as done
 
 ---
 
