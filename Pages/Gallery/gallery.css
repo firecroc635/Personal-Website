@@ -1,0 +1,37 @@
+.Container {
+    columns: 4; /* Default */
+}
+
+/* For screens 1000px wide or less, use 2 columns */
+@media (max-width: 1700px) {
+    .Container {
+        columns: 2;
+    }
+}
+
+/* For screens 500px wide or less, use 1 column */
+@media (max-width: 550px) {
+    .Container {
+        columns: 1;
+    }
+}
+
+.Image {
+    font-size:large;
+    width: 400px; /* Adjust to container width */
+    break-inside: avoid;
+    margin: 10px 10px;
+    padding: 5px 5px 5px 5px;
+    display: inline-grid;
+    text-align: center;
+    outline-width: 5pt;
+    outline-color: rgb(115, 255, 1);
+    background-color: rgba(121, 158, 130, 0.459);
+    outline-style: solid;
+}
+
+img {
+    width: 350px; /* Adjust to container width */
+    margin: auto;
+    display: block;
+}

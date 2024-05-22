@@ -135,6 +135,10 @@ And these in models
 
 [and I livestreamed myself doing](https://www.youtube.com/watch?v=vs7fyGjju7E&t=15092s)
 
+### 5:16, 22/05/2024
+
+When did it become 5!? Uh yeah so I basically just added a gallery section, and uh yeah :)
+
 ---
 
 ## some other stuff
