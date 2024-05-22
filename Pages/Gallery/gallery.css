@@ -18,7 +18,7 @@
 
 .Image {
     font-size:large;
-    width: 400px; /* Adjust to container width */
+    width: 90%; /* Adjust to container width */
     break-inside: avoid;
     margin: 10px 10px;
     padding: 5px 5px 5px 5px;
@@ -31,7 +31,7 @@
 }
 
 img {
-    width: 350px; /* Adjust to container width */
+    width: 85%; /* Adjust to container width */
     margin: auto;
     display: block;
 }
