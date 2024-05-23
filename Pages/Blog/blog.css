@@ -133,6 +133,10 @@
     color: rgb(5, 79, 33);
 }
 
+.BlogDivCS strong {
+    font-size: 15pt;
+}
+
 .BlogDivCS blockquote  {
     border-left: 10px hsla(162, 100%, 50%, 0.755) solid;
     padding-left: 10px;

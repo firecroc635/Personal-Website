@@ -34,4 +34,6 @@ img {
     width: 85%; /* Adjust to container width */
     margin: auto;
     display: block;
+    outline-color: rgba(115, 255, 0, 0.349);
+    outline-style: solid;
 }

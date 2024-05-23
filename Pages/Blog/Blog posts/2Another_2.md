@@ -143,6 +143,11 @@ When did it become 5!? Uh yeah so I basically just added a gallery section, and 
 
 I forgot to check it as done
 
+### 3:45AM, 23/05/2024
+
+* [ ]  Project post for engine
+* [ ]  Blog post for stem
+
 ---
 
 ## some other stuff
