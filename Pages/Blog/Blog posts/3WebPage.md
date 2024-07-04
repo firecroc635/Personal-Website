@@ -48,4 +48,7 @@
 16. [Sci-Hub](https://sci-hub.st/)
 
     Do you hate paywalls, and sign-up walls for websites that have an article? Then use this website to **pirate those articles**.
-17.
+17. [TrueUp.io](https://www.trueup.io/)
+
+    IF you wanna see what jobs you can get in the **tech market**, this website is defenitly great for that.
+18.
